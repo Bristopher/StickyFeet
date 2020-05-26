@@ -1,0 +1,8 @@
+#Default , Durability of leather: 65
+leatherBootsDamagePerUse: 1
+
+#Default , Durability of iron: 195
+ironBootsDamagePerUse: 1
+
+#Default , Durability of diamond: 429
+diamondBootsDamagePerUse: 1

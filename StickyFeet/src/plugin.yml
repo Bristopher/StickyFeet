@@ -1,0 +1,19 @@
+main: me.chris.StickyFeet.Main
+name: StickyFeet
+version: 0.99
+author: chris
+api-version: 1.15
+
+commands:
+  stickyfeet:
+    description: StickyFeet plugin root command
+  version:
+    description: gives you the current version of the plugin
+  leatherdamagerperuse:
+    description: set the durability per 2 ladders placed (default 1)
+  irondamagerperuse:
+    description: set the durability per 2 ladders placed (default 1)
+  diamonddamagerperuse:
+    description: set the durability per every other 2 ladders placed (default 1)
+  defaultdamage:
+    description: set the default durability for all boots
